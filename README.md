@@ -14,4 +14,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about ... Anything 😊
 - 📫 How to reach me: sabour.azadani@gmail.com
 - 🥋Fun fact: Black Belt - Yondan in Kyokushin-kan Karate
--->
