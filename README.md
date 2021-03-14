@@ -8,6 +8,5 @@ I am Sabour Azadani, an Afghan-American - Software Development Engineer in Testi
 - 👯 Energetic and experienced in helping clients with their testing methodology, processes and writing test cases. 
 - ⚙️ Skilled in Test Methoologies, QA Process, Softwared defect tracking, SDLC, STLC, Bug Life Cycle, Agile & Waterfall development process. 
 - 🧰 SQL, MySQL, Java, Selenium/WebDriver & Grid, TestNG, JUnit, Maven, Cucumber, POM, Jenkins, Postman, SoapUI & ReadyAPI 
-- 💬 Ask me about ... Anything 😊
-- 📫 How to reach me: sabour.azadani@gmail.com
+- 💬 Write to me: sabour.azadani@gmail.com
 - 🥋 Fun fact: Black Belt - Yondan in Kyokushin-kan Karate
