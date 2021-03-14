@@ -1,7 +1,8 @@
-### Hi there! 🌎
+### Hi there! 🌎 
+Dream as if you'll live forever. Live as if you'll die today.
 
 Welcome! I am Sabour Azadani, an Afghan-American - Software Development Engineer in Testing in Washinton DC. 
-Passionate about automation and solving problems with technology. Dream as if you'll live forever. Live as if you'll die today.
+Passionate about automation and solving problems with technology.
 
 
 Here are some ideas to get you started:
