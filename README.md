@@ -6,4 +6,3 @@ This is Sabour Azadani, a Software Development Engineer in Testing - based in Wa
 I am energetic and experienced in helping clients with their testing methodology, processes, and writing test cases. Skilled in Test Methodologies, QA Process, Software defect tracking, SDLC, STLC, Bug Life Cycle, Agile & Waterfall development process & Jira tool. Full knowledge of Git & GitHub Essentials, SQL & Database, Eclipse & IntelliJ IDEAs - Java, Selenium/WebDriver, TestNG, JUnit, Maven, Cucumber, POM, Jenkins, Postman, and SoapUI.
 
 - 💬 Write to me: sabour.azadani@gmail.com
-- 🥋 Fun fact: Black Belt - Yondan in Kyokushin-kan Karate
